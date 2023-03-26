@@ -1,0 +1,82 @@
+[
+  {
+    "name": "iPhone SE 3",
+    "price": 599,
+    "featured": true,
+    "rating": 4.5,
+    "company": "Apple",
+    "createdAt": "2023-03-26T13:15:42.123+00:00"
+  },
+  {
+    "name": "Samsung Galaxy S22",
+    "price": 899,
+    "featured": true,
+    "rating": 4.8,
+    "company": "Samsung",
+    "createdAt": "2023-03-26T13:16:12.345+00:00"
+  },
+  {
+    "name": "Google Pixel 7",
+    "price": 799,
+    "featured": false,
+    "rating": 4.3,
+    "company": "Google",
+    "createdAt": "2023-03-26T13:17:22.987+00:00"
+  },
+  {
+    "name": "OnePlus 11T",
+    "price": 899,
+    "featured": true,
+    "rating": 4.7,
+    "company": "OnePlus",
+    "createdAt": "2023-03-26T13:18:31.456+00:00"
+  },
+  {
+    "name": "Xiaomi Mi 13",
+    "price": 699,
+    "featured": true,
+    "rating": 4.6,
+    "company": "Xiaomi",
+    "createdAt": "2023-03-26T13:19:19.876+00:00"
+  },
+  {
+    "name": "Sony Xperia 2",
+    "price": 899,
+    "featured": false,
+    "rating": 4.4,
+    "company": "Sony",
+    "createdAt": "2023-03-26T13:20:29.345+00:00"
+  },
+  {
+    "name": "LG V90",
+    "price": 799,
+    "featured": false,
+    "rating": 4.2,
+    "company": "LG",
+    "createdAt": "2023-03-26T13:21:45.123+00:00"
+  },
+  {
+    "name": "Motorola Moto G12",
+    "price": 399,
+    "featured": true,
+    "rating": 4.0,
+    "company": "Motorola",
+    "createdAt": "2023-03-26T13:22:59.987+00:00"
+  },
+  {
+    "name": "Nokia 9.4 PureView",
+    "price": 699,
+    "featured": true,
+    "rating": 4.5,
+    "company": "Nokia",
+    "createdAt": "2023-03-26T13:23:54.876+00:00"
+  },
+  {
+    "name": "BlackBerry Key3",
+    "price": 799,
+    "featured": false,
+    "rating": 4.1,
+    "company": "BlackBerry",
+    "createdAt": "2023-03-26T13:24:59.345+00:00"
+  }
+]
